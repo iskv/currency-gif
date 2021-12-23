@@ -1,4 +1,4 @@
-# CurrenciesAndGifs
+# Currencies And Gifs
 
 Данный проект реализует веб-сервис работающий следующим образом:
 1) На веб-сервис передается код валюты (пример: http://localhost/EUR или http://localhost/cny).
